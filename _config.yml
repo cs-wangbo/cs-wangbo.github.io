@@ -84,7 +84,7 @@ author:
   bio              : "Hunan University"
   location         : "China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=zGziAtYAAAAJ&view_op=list_works&gmla=AH70aAWCXVoRlPM6_0qPx09GTzjzALfTfPY037p1iQVCXB609Tz6U7k7vV-uvG3gizDgWSff9PLdrzjQ0zLLHjcPMZ9qyV0gngsAlJwB5lo"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/cs-wangbo"
+  github           : "cs-wangbo"
   google_plus      :
   keybase          :
   instagram        :
