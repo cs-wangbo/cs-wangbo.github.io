@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me 王博"
+title                    : "Bo Wang 王博"
 title_separator          : "-"
 name                     : &name "Bo Wang"
 description              : &description "PHD at Hunan University"
