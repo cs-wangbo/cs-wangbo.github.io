@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "About me/Bo Wang"
+title                    : "About me 王博"
 title_separator          : "-"
-name                     : &name "Bo Wang 王博"
+name                     : &name "Bo Wang"
 description              : &description "PHD at Hunan University"
 url                      :
 repository               : "cs-wangbo/WangBo.github.io"
@@ -79,7 +79,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bo Wang 王博"
+  name             : "Bo Wang"
   avatar           : "profile.jpg"
   bio              : "Hunan University"
   location         : "China"
