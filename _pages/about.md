@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Bo Wang is a PHD from College of Computer Science and Electronic Engineering, Hunan University. 
+Bo Wang is currently a assistant professor at Zhengzhou University. He received his Ph.D degree in Computer Science from Hunan University in 2025 and has been a visiting student at Nanyang Technological University from 2024 to 2025, under the supervision of Prof. Chee Keong KWOH.
 
 ## RESEARCH FOCUS
 
@@ -36,9 +36,11 @@ Spatial multi-omics integration
 
 2021.09—Present Ph.D. in Computer Science and Technology, Hunan University, China
 
+2024.01—2025.01 Joint Ph.D. in Computer Science, Nanyang Technological University, Singapore
+
 2018.09—2021.07 M.S. in Computer Science and Technology, Zhengzhou University, China
 
 
 ## Contact
 
-**Email**: bwang@hnu.edu.cn
+**Email**: iewangbo@zzu.edu.cn
